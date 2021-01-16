@@ -1,8 +1,6 @@
-Hello.
+Hello again.
 
-This is the code used to generate the Aionian Bible at www.AionianBible.org.
-The alpha version of this project is ugly.
-No apologies, I just kept a constant focus on producing the end product.
+This is the Beta code to be used to generate the Aionian Bible at www.AionianBible.org.
 Third party publishers read below.
 
 Thank you for your interest in re-publishing Aionian Bible content. The Aionian Bible is copyrighted with the Creative Commons Attribution No Derivative Works 4.0 license allowing 100% freedom to copy and print, but further editorial and translation work must begin with the sources. Third party publishers are welcome to re-print and re-publish any Aionian Bible content without alteration for free and commercial enterprise, except at Amazon KDP, Lulu, and Ingram Lightning Source. All re-published content must retain the Aionian Bible Creative Commons Attribution No Derivative Works 4.0 license as originally imprinted, and respect the source text copyright. Also the Holy Bible Aionian Edition® registered trademark must be included as originally imprinted on the Aionian Bible content. Further, the Holy Bible Aionian Edition® registered trademark may not be used on any other content. The purpose of the trademark is not profiteering, but to put a legal wrapper around the effort, especially while the project matures. If you have any usage and licensing questions please ask.
